@@ -1,7 +1,7 @@
 #CHECKLIST FOR READ.ME FILES
 
 -Project oveview
-*What is this apllication about*
+*What is this application about*
 
 -Usage
 *How is this application used*
