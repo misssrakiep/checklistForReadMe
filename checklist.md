@@ -1,22 +1,36 @@
 #CHECKLIST FOR READ.ME FILES
 
--Project oveview
-*What is this application about*
+# Project Title Goes Here
 
--Usage
-*How is this application used*
+## -Project oveview
+One Paragraph of project description goes here
 
--Tools and dependencies
-*What tools have been used to*
+## -Getting started on the project
 
--Installations
-*How do I install these tools and dependencies*
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
--Testing or Running
-*Test the application*
+### - Cloning
 
--Issues
-*Known issues about this application*
+Explain how to clone the project repo from github
 
--Contributions
-*Contributions from other developers and acknowledgements of libraries used
+## Creating you development environment
+A step by step series of examples that tell you have to get a development env running
+
+### -Prerequisites
+What things you need to install the software and how to install them
+
+## -Setting up the project
+
+### -Packages you will need to install
+
+
+## - Deployment
+Add additional notes about how to deploy this on a live system
+
+## -Running the app locally
+
+## -Versioning
+GIT is used for version control
+
+## -Issues
+Any known ssues with the app should be mentioned here
